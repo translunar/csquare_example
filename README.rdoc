@@ -1,0 +1,13 @@
+= CSquare example
+
+http://github.com/mohawkjohn/csquare_example
+
+== Description
+
+This is an example for the csquare gem which includes rational, complex, and Ruby object types.
+
+A derivative form will be included in NMatrix v0.0.2 for matrix operations.
+
+== License
+
+BSD 2-clause. Copyright John Woods (mohawkjohn on github), 2012.
