@@ -8,6 +8,16 @@ This is an example for the csquare gem which includes rational, complex, and Rub
 
 A derivative form will be included in NMatrix v0.0.2 for matrix operations.
 
+== Usage
+
+    gem install csquare
+
+Then, in IRB, simply:
+
+    require "./test.rb"
+
+The output will be in test.c.
+
 == License
 
 BSD 2-clause. Copyright John Woods (mohawkjohn on github), 2012.
